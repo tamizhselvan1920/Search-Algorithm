@@ -109,6 +109,7 @@ else:
 ##  Output
 linear search method to match the item in a list. 
 ![OUTPUT](./out1.png)
+
 Find the element in a list using Binary Search(Iterative Method) and find the element in a list using Binary Search (recursive Method).
 ![OUTPUT](./out2.png)
 
